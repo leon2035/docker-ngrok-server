@@ -3,7 +3,7 @@
 #
 
 FROM debian:jessie
-MAINTAINER kev <noreplay@datageek.info>
+MAINTAINER leon <756681978@qq.com>
 
 ENV NGROK_GIT https://github.com/inconshreveable/ngrok.git
 ENV NGROK_BASE_DOMAIN ngrok.foobar.site
